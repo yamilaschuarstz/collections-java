@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/list/Carrinho/Carrinho.iml" filepath="$PROJECT_DIR$/list/Carrinho/Carrinho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/Tarefa/Tarefa.iml" filepath="$PROJECT_DIR$/list/Tarefa/Tarefa.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java.iml" filepath="$PROJECT_DIR$/collections-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
     </modules>
   </component>
 </project>
