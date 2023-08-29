@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/list/Tarefa/Tarefa.iml" filepath="$PROJECT_DIR$/list/Tarefa/Tarefa.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java.iml" filepath="$PROJECT_DIR$/collections-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordenacao-list/ordenacao-list.iml" filepath="$PROJECT_DIR$/ordenacao-list/ordenacao-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pesquisa-list/pesquisa-list.iml" filepath="$PROJECT_DIR$/pesquisa-list/pesquisa-list.iml" />
     </modules>
   </component>
 </project>
