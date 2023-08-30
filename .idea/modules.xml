@@ -4,10 +4,19 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/list/Carrinho/Carrinho.iml" filepath="$PROJECT_DIR$/list/Carrinho/Carrinho.iml" />
       <module fileurl="file://$PROJECT_DIR$/list/Tarefa/Tarefa.iml" filepath="$PROJECT_DIR$/list/Tarefa/Tarefa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/agenda-contato/agenda-contato.iml" filepath="$PROJECT_DIR$/map/agenda-contato/agenda-contato.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java.iml" filepath="$PROJECT_DIR$/collections-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ordenacao-list/ordenacao-list.iml" filepath="$PROJECT_DIR$/ordenacao-list/ordenacao-list.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pesquisa-list/pesquisa-list.iml" filepath="$PROJECT_DIR$/pesquisa-list/pesquisa-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set/lista-convidados/lista-convidados.iml" filepath="$PROJECT_DIR$/set/lista-convidados/lista-convidados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/ordenacao-list/ordenacao-list.iml" filepath="$PROJECT_DIR$/list/ordenacao-list/ordenacao-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/ordenacao-map/ordenacao-map.iml" filepath="$PROJECT_DIR$/map/ordenacao-map/ordenacao-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set/ordenacao-set/ordenacao-set.iml" filepath="$PROJECT_DIR$/set/ordenacao-set/ordenacao-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set/palavras-unicas/palavras-unicas.iml" filepath="$PROJECT_DIR$/set/palavras-unicas/palavras-unicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/pesquisa-list/pesquisa-list.iml" filepath="$PROJECT_DIR$/list/pesquisa-list/pesquisa-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/pesquisa-map/pesquisa-map.iml" filepath="$PROJECT_DIR$/map/pesquisa-map/pesquisa-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set/pesquisa-set/pesquisa-set.iml" filepath="$PROJECT_DIR$/set/pesquisa-set/pesquisa-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set/set.iml" filepath="$PROJECT_DIR$/set/set.iml" />
     </modules>
   </component>
 </project>
